@@ -1,0 +1,49 @@
+﻿* {
+margin:0;
+padding:0;
+}
+body{
+    background-color:#f3f3f3;
+    font-family:"微软雅黑";
+    }
+.container {
+    width:1000px;
+    margin:0 auto;
+}
+div#logo{
+    display:inline-block;
+    vertical-align:top;
+    width:755px;
+}
+div#sousuo{
+display:inline-block;
+vertical-align:top;
+    margin-top:58px;
+    text-align:right;
+    width:240px;
+}
+input[type="text"] {
+background:#f3f3f3;
+border:solid 1px #ccc;
+height:40px;
+line-height:40px;
+font-size:20px;
+padding-left:10px;
+width:165px;
+display:inline-block;
+vertical-align:top;
+font-family:"微软雅黑";
+}
+input[type="submit"] {
+background-color:#3598db;
+color:#fff;
+border:solid 1px #3598db;
+height:42px;
+display:inline-block;
+vertical-align:top;
+font-size:20px;
+padding:0 10px;
+font-family:"微软雅黑";
+}
+
+
